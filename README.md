@@ -142,6 +142,7 @@ xianyu-auto-reply/
 ## 🚀 快速开始
 
 **⚡ 最快部署方式（推荐）**：使用预构建镜像，无需下载源码，一条命令即可启动！
+[宝塔部署教程](https://www.luvwan.com/forum-post/6126.html)
 
 ### 方式一：Docker 一键部署（最简单）
 
